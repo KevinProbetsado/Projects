@@ -76,9 +76,6 @@ FROM PopvsVac;
 
 ## Dashboard Preview
 
-![COVID-19 Dashboard](<img width="1862" height="799" alt="dashboard_preview" src="https://github.com/user-attachments/assets/33b81b17-b19c-4ccc-8b8c-984104f4ed36" />
-)
-
 > 📊 [View the full interactive dashboard on Tableau Public](https://public.tableau.com/app/profile/kevin.probetsado/vizzes)
 ---
 
