@@ -74,8 +74,11 @@ SELECT *, (rolling_people_vaccinated / population) * 100 AS pct_vaccinated
 FROM PopvsVac;
 ```
 
-![Uploading image.png…]()
+## Dashboard Preview
 
+![COVID-19 Dashboard](dashboard_preview.png)
+
+> 📊 [View the full interactive dashboard on Tableau Public](https://public.tableau.com/app/profile/kevin.probetsado/vizzes)
 ---
 
 ## How to Run
