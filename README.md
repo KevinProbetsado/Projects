@@ -84,12 +84,4 @@ FROM PopvsVac;
 
 ---
 
-## About Me
-
-I'm an aspiring data analyst based in the Philippines, passionate about turning data into clear, compelling stories.
-
-📫 [LinkedIn](https://www.linkedin.com/in/kevin-c-probetsado-aa9a64287/) · 📊 [Tableau Public](https://public.tableau.com/app/profile/kevin.probetsado/vizzes) · 🏠 [GitHub Profile](https://github.com/KevinProbetsado)
-
----
-
 *Dataset source: Hannah Ritchie et al. (2020) — "Coronavirus Pandemic (COVID-19)". Published online at OurWorldInData.org.*
